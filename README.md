@@ -13,4 +13,4 @@ Hey There!! I study in MIT School of Engineering, MIT ADTU. And here are all my 
 10. Sorting Techniques (Bubble, Insertion, Selection, Merge, Quick)
 11. Tree (Binary Tree, Expression Tree, Binary Search Tree)
 ## Built with
-(C++)[https://en.cppreference.com/w/] - A High Level General Purpose Programming Language
+[C++](https://en.cppreference.com/w/) - A High Level General Purpose Programming Language
